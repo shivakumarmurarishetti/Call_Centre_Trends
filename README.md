@@ -13,7 +13,13 @@ This project involves building a Power BI dashboard for the Call Center Manager 
 ## Data Source
 - **Dataset:** PwC Call Centre Trends (10 columns, 5000 rows)
 - **Preparation:** Data cleaned and transformed using Power Query in Power BI Desktop.
-
+  
+## Technologies Used
+- **Microsoft Power BI:** For data visualization and dashboard creation.
+- **Power Query:** For data cleaning and transformation.
+- **DAX (Data Analysis Expressions):** To create calculated measures and analyze data.
+- **Microsoft Excel:** Initial dataset review and preprocessing.
+  
 ## Data Preparation
 - Removed unnecessary columns and rows.
 - Validated data types for all fields.
